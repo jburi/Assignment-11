@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+ * Jacob Buri
+ * PlayerController.cs
+ * Assignment 11
+ * Allows the player to move when you click within the Nav Mesh
+ * Allows animation to match the player movement in Example 5
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;

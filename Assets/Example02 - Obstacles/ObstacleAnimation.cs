@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Jacob Buri
+ * PlatformRiding.cs
+ * Assignment 11
+ * Moves the Obstacles within the Nav Mesh
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,3 +1,10 @@
+/*
+ * Jacob Buri
+ * LevelGenerator.cs
+ * Assignment 11
+ * Generates random obstacles, navmesh, and player
+ */
+
 using UnityEngine;
 using UnityEngine.AI;
 

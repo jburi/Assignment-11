@@ -1,5 +1,10 @@
-﻿//--- Enemy chases the player and then stops after reaching the player
-//--- It uses a state machine with two states: chase and idle
+﻿/*
+ * Jacob Buri
+ * EnemyAIStateMachine.cs
+ * Assignment 11
+ * Enemy chases the player and then stops after reaching the player
+ * It uses a state machine with two states: chase and idle
+ */
 
 using System.Collections;
 using System.Collections.Generic;
